@@ -1,9 +1,11 @@
 <!DOCTYPE HTML>
 <style type="text/css">
-
+#title_text{
+	font-size: larger;
+}
 </style>
 <head>
-<h1>User Info</h1>
+<div id="title_text">User Info</div>
 <br>
 <div></div>
 </head>
