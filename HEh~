@@ -1,21 +1,39 @@
 <!DOCTYPE html>
 <HTML>
 	<head>
-		<title> UPB homepage </title> 
+		<title > UPB homepage </title> 
+		<style>
+				#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+				#section {
+    				width:350px;
+    				float:left;
+    				padding:10px;	 	 
+				}
+		</style>
 	</head>
 	<body>
-		<label><h1>Welcome to the UPB Webapp!</h1></label>
+		<div id = "header"><h1> Welcome to the UPB Webapp!</h1></div>
 		<div class="Block Moveable Panel" id="CustomStoreInfo">
-<h2>Store Info</h2>
-<div class="BlockContent">
-<li><a href="/About-Us">About Us</a></li>
-<li><a href="/Safe-Secure-Shopping">Safe & Secure Shopping</a></li>
-<li><a href="/Privacy-Policy">Privacy Policy</a></li>
-<li><a href="/Terms-Conditions">Terms & Conditions</a></li>
-<li><a href="/Shipping-Returns">Shipping & Returns</a></li>
-<li><a href="/Taxes">Taxes</a></li>
+<h2>Options</h2>
+<section>
+<div id="section">
+<li><a href="/About-Us">User Info</a></li>
+<li><a href="/calendar">Calendar</a></li>
+<li><a href="/highlights">Highlights</a></li>
+<li><a href="/board">Leadership and Board</a></li>
+<li><a href="/Suggestions">Suggestions</a></li>
+<li><a href="/links">Useful Links</a></li>
 <li><a href="/contact-us/">Contact Us</a></li>
 </div>
 </div>
+</section>
+<aside>
+		<img src="world.jpg" alt="temp image."style="width:304px;height:228px;">
+		</aside>
 	</body>
 </HTML>
