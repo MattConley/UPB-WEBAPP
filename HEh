@@ -4,5 +4,18 @@
 		<title> UPB homepage </title> 
 	</head>
 	<body>
+		<label><h1>Welcome to the UPB Webapp!</h1></label>
+		<div class="Block Moveable Panel" id="CustomStoreInfo">
+<h2>Store Info</h2>
+<div class="BlockContent">
+<li><a href="/About-Us">User Info</a></li>
+<li><a href="/Safe-Secure-Shopping">Calendar</a></li>
+<li><a href="/Privacy-Policy">Highlights</a></li>
+<li><a href="/Terms-Conditions">Leadership and Board</a></li>
+<li><a href="/Shipping-Returns">Suggestions</a></li>
+<li><a href="/Taxes">Useful Links</a></li>
+<li><a href="/contact-us/">Contact Us</a></li>
+</div>
+</div>
 	</body>
 </HTML>
