@@ -4,36 +4,42 @@
 		<title > UPB homepage </title> 
 		<style>
 				#header {
-    background-color:black;
-    color:white;
+    color:black;
     text-align:center;
     padding:5px;
-}
+    font-family: Zapf Chancery, cursive;
+	}
+		#newsletter{
+			color:black;
+			padding:10px;
+			font-family:Palatino, serif }
+			
 				#section {
-    				width:350px;
+					color:black;
+    				width:400px;
     				float:left;
     				padding:10px;	 	 
 				}
 		</style>
 	</head>
 	<body>
-		<div id = "header"><h1> Welcome to the UPB Webapp!</h1></div>
+		<div id = "header"><h1> University Program Board of Case Western Reserve University</h1></div>
 		<div class="Block Moveable Panel" id="CustomStoreInfo">
 <h2>Options</h2>
 <section>
 <div id="section">
-<li><a href="/About-Us">User Info</a></li>
-<li><a href="/Calendar">Calendar</a></li>
-<li><a href="/Highlights">Highlights</a></li>
-<li><a href="/Board">Leadership and Board</a></li>
-<li><a href="/Suggestions">Suggestions</a></li>
-<li><a href="/links">Useful Links</a></li>
-<li><a href="/contact-us/">Contact Us</a></li>
+<li><a href="/Users/navyakandkuri/Documents/UPBProj/user_info">User Info</a></li>
+<li><a href="/Users/navyakandkuri/Documents/UPBProj/calendar.html">Calendar</a></li>
+<li><a href="/Users/navyakandkuri/Documents/UPBProj/highlights.html">Highlights</a></li>
+<li><a href="/Users/navyakandkuri/Documents/UPBProj/board.html">Leadership and Board</a></li>
+<li><a href="/Users/navyakandkuri/Documents/UPBProj/suggestions.html">Suggestions</a></li>
+<li><a href="/Users/navyakandkuri/Documents/UPBProj/event_surveys.html">Event Surveys</a></li>
 </div>
 </div>
 </section>
 <aside>
-		<img src="world.jpg" alt="temp image."style="width:304px;height:228px;">
+		<div id = "newsletter"><h3> This week in UPB </h3> </div>
+		<img src="thisweekinupb.jpg" alt="temp image."style="width:500px;height:500px;">
 		</aside>
 	</body>
 </HTML>

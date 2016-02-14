@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Current Board and Leadership </title>
+<style>
+				#header {
+    color:black;
+    text-align:center;
+    padding:5px;
+    font-family: Zapf Chancery, cursive;
+	}
+	#actualheader {
+	color:black;
+    text-align:center;
+    padding:5px;
+    font-family: Oldtown, fantasy;}
+		#newsletter{
+			color:black;
+			padding:10px;
+			font-family:Palatino, serif }
+			#exectitles {
+    color:black;
+    text-align:left;
+    padding:5px;
+    font-family: Zapf Chancery, cursive;
+	}
+	#prez {
+    color:black;
+    float:left;
+    padding:5px;
+    font-family: Zapf Chancery, cursive;
+	}
+			
+				#section {
+					color:black;
+    				width:400px;
+    				float:left;
+    				padding:10px;	 	 
+				}
+				#table {
+    border-collapse: separate;
+    border-spacing: 100px 50px;
+    text-align: center;
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}
+		</style>
+<div id = "actualheader"><h1>People in University Program Board</h1> </div>
+<br>
+</head>
+<body>
+<table id = "table">
+<tr>
+    <th>President</th>
+    <th>Vice President</th> 
+    <th>Finance</th>
+    <th>Info </th>
+  </tr>
+  <tr>
+    <td>Bill</td>
+    <td>Navya</td> 
+    <td>Aditi</td>
+	<td>Louis </td>
+  </tr>
+  </table>
+<table id = "table">
+<tr>
+    <th>Director of Promo</th>
+    <th>Concerts</th> 
+    <th>New Members</th>
+  </tr>
+  <tr>
+    <td>Shruti</td>
+    <td>Kapil</td> 
+    <td>Kya</td>
+  </tr>
+  </table>
+  <table id = "table">
+  <tr>
+    <th>on campus</th>
+    <th>off campus</th> 
+    <th>traditions</th>
+    <th>thwing tuesdays </th>
+  </tr>
+  <tr>
+    <td>Marge</td>
+    <td>Ashley</td> 
+    <td>Temi</td>
+    <td>Carolyn</td>
+  </tr>
+  </table>
+	
+</body>
+</html>
