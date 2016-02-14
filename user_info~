@@ -1,12 +1,18 @@
 <!DOCTYPE HTML>
+<html>
 <style type="text/css">
-
+<<<<<<< HEAD
+=======
+#title_text{
+	font-size: larger;
+}
+>>>>>>> 92268887c86251a025cffe4d508d7267bb8b288e
 </style>
 <head>
-<h1>User Info</h1>
+<div id="title_text">User Info</div>
 <br>
 <div></div>
 </head>
-
 <body>
 </body>
+</html>

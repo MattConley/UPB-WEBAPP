@@ -1,16 +1,14 @@
 <!DOCTYPE HTML>
-<html>
 <style type="text/css">
-
 #title_text{
 	font-size: larger;
 }
 </style>
 <head>
-<div id="title_text">User Info</div>
+<div id="title_text">Suggestions</div>
 <br>
 <div></div>
 </head>
+
 <body>
 </body>
-</html>
